@@ -1,4 +1,4 @@
-<h1 align="center">
+pip install wagtail<h1 align="center">
     <picture>
         <source media="(prefers-color-scheme: light)" srcset=".github/wagtail.svg">
         <source media="(prefers-color-scheme: dark)" srcset=".github/wagtail-inverse.svg">
